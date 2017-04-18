@@ -6,6 +6,7 @@
     font-family: 'OpenSans-Regular';
     src:url(../fonts/OpenSans-Regular.ttf) format('truetype');
 }
+
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -73,6 +74,10 @@ body{
     font-family: 'Sail-Regular';
     text-transform: capitalize;
 }
+.header-decfont{
+	font-size: 20px;
+	font-weight: bold;
+}
 .navbar-default .navbar-nav > li > a {
     color: #fff;
 }
@@ -131,7 +136,6 @@ span.menu {
   font-size: 5em;
   color:#652840;
   font-family: 'Sail-Regular';
-
 }
 .slider-info p{
 	font-size: 1em;
